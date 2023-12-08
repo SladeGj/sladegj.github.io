@@ -1,0 +1,117 @@
+/* header styling */
+.body {
+    margin: 0px;
+}
+
+.bunker {
+    height: 4.56vw;
+    width: 9.77vw;
+    margin-top: 1.95vw;
+    margin-right: 1.95vw;
+    margin-left: 1.95vw;
+    float: right;
+    display: inline;
+}
+
+.headertext {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3.26vw;
+    font-weight: bold;
+    margin: 1.95vw;
+    float: left;
+    display: inline;
+}
+
+.headerbackground {
+    height: 8.1433vw;
+    width: device-width;
+    background-color: rgba(94, 94, 95, 0.481);
+    border-bottom: 7px solid black;
+}
+
+.upperbuttons {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 1.955vw;
+    margin-top: 2.932vw;
+    margin-right: 2.6vw;
+    float: right;
+}
+
+/* link styling */
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: black;
+    text-decoration: none;
+  }
+
+  .linkpadding {
+    padding: 1.95vw;
+  }
+
+  /* search */
+  .searchuppertext {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5.21vw;
+  }
+  
+  .searchfield {
+    text-align: center;
+    margin-top: 1.3vw;
+    height: 1.3vw;
+  }
+
+  /* library */
+
+  .librarylistheader {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .librarylistyear {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .librarylistarticle {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+  }
+
+/* article */
+
+.textfield {
+  margin-top: 15px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.articleheader {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.articletext {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+}
