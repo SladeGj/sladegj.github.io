@@ -67,7 +67,7 @@ a:link {
   .searchuppertext {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 1.95vw;
     text-align: center;
     margin-top: 5.21vw;
   }
@@ -82,36 +82,36 @@ a:link {
 
   .librarylistheader {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 30px;
+    font-size: 1.95vw;
     font-weight: bold;
   }
 
   .librarylistyear {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 1.3vw;
     font-weight: bold;
   }
 
   .librarylistarticle {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 1.3vw;
   }
 
 /* article */
 
 .textfield {
-  margin-top: 15px;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-top: 0.98vw;
+  margin-left: 19.54vw;
+  margin-right: 19.54vw;
 }
 
 .articleheader {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 30px;
+  font-size: 1.95vw;
   font-weight: bold;
 }
 
 .articletext {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 25px;
+  font-size: 1.63vw;
 }
