@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Children can take adult medications in smaller doses</title>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+</head>
+<body class="textfield">
+    <a href="https://sladegj.github.io/librarymain.html" target="_blank">back</a>
+    <br />
+    <br />
+    <div class="articleheader">
+        Children can take adult medications in smaller doses
+    </div>
+    <div class="articletext">
+        When it comes to medications, children are not small adults. Children may react differently than adults to the same medication. For example, antihistamines cause drowsiness in adults but may cause hyperactivity in children. The proper dosage for children may be lower than for adults; however, in some cases, children require larger doses than adults (such as with medications used to treat seizures). Always ask your child's doctor or pharmacist if you have questions about the correct dose of a medication.
+    </div>
+    <br />
+    <div class="articleheader">
+        Sources and literature
+    </div>
+    <br />
+    <div class="articletext">
+        Batchelor H. K., Marriott J. F. Formulations for children: problems and solutions // British journal of clinical pharmacology. – 2015. – Т. 79. – №. 3. – С. 405-418
+    </div>
+</body>

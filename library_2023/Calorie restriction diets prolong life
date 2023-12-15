@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Calorie restriction diets prolong life</title>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+</head>
+<body class="textfield">
+    <a href="https://sladegj.github.io/librarymain.html" target="_blank">back</a>
+    <br />
+    <br />
+    <div class="articleheader">
+        Calorie restriction diets prolong life
+    </div>
+    <div class="articletext">
+        Some people say that the restriction of your daily eaten, which means your diet’s, calories is able to prolong life. This statement is, perhaps, based in its root on the ongoing for about a hundred years now reasearch on this subject - CR (calorie restriction) diets. The results of this research make it look like CR is a real way of life extension, as groups given unlimited food typically live less than the ones, that are on a CR diet, and the other variant is that the groups just on CR diet live longer, than alike groups not on CR. 
+        <br />
+        And at first glance it all seems alright, but at a closer look some problems start emerging. 
+        <br />
+        The first one is that, in the first case, it’s mostly not the CR that prolongs life of the CR-diet group’s representatives, but rather the problems caused by obesity in case of the abundant-food representatives, that reduce their lifespan.
+        <br />
+        The second one, in the second case, is that the groups’ representatives, in which the strategy of life prolongation via CR dieting works, are obese, which means that CR in this case works mostly not by itself, but just by reducing the negative effects of obesity.
+        <br />
+        Research has shown that for humans and animals of normal weight (normal body mass index (BMI) - 18.5–24.9) CR diet isn’t benefitial. It’s benefitial only in case of obesity acting through weight reduction and with it reduction of negative effects of overweight.
+    </div>
+    <br />
+    <div class="articleheader">
+        Sources and literature
+    </div>
+    <br />
+    <div class="articletext">
+        Wolf AM.
+        Rodent diet aids and the fallacy of caloric restriction. Mech Ageing Dev.
+        2021 Dec;200:111584.
+        (https://doi.org/10.1016/j.mad.2021.111584)
+    </div>
+</body>

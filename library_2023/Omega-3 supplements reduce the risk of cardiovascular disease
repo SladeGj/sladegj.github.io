@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Omega-3 supplements reduce the risk of cardiovascular disease</title>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+</head>
+<body class="textfield">
+    <a href="https://sladegj.github.io/librarymain.html" target="_blank">back</a>
+    <br />
+    <br />
+    <div class="articleheader">
+        Omega-3 supplements reduce the risk of cardiovascular disease
+    </div>
+    <div class="articletext">
+        Previously, it was believed that fish oil helps keep the heart healthy, and it seemed logical. The myth relied on the fact that omega-3 fatty acids, which are found in fish oil, reduce the level of triglycerides and inflammation associated with an increased risk of cardiovascular diseases. But the study, which involved 12,500 people at high risk of heart and vascular disease who took omega-3 supplements daily, did not show a link between unsaturated fatty acids and protection from heart attack or stroke. 
+    </div>
+    <br />
+    <div class="articleheader">
+        Sources and literature
+    </div>
+    <br />
+    <div class="articletext">
+        Risk and Prevention Study Collaborative Group; Roncaglioni MC, Tombesi M, Avanzini F, Barlera S, Caimi V, Longoni P, Marzona I, Milani V, Silletta MG, Tognoni G, Marchioli R. n-3 fatty acids in patients with multiple cardiovascular risk factors. N Engl J Med. 2013 May 9;368(19):1800-8. doi: 10.1056/NEJMoa1205409. Erratum in: N Engl J Med. 2013 May 30;368(22):2146. PMID: 23656645. 
+    </div>
+</body>

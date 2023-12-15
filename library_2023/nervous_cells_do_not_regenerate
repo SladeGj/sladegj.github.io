@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Nervous cells do not regenerate</title>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+</head>
+<body class="textfield">
+    <a href="https://sladegj.github.io/librarymain.html" target="_blank">back</a>
+    <br />
+    <br />
+    <div class="articleheader">
+        Nervous cells do not regenerate
+    </div>
+    <div class="articletext">
+        Among people, since overall stress research had started and the results of it became popular, a saying started to spread, “nervous cells do not regenerate”, in a number of shapes and forms. In fact, it is only partially true. Nervous tissue consists of two components - neurocytes and glial cells. Glial cells are able to regenerate, no doubt, at least some types of them. The bodies of neurocytes and CNS nerve fibers have very imited, according to recent data, ability to regenerate, surely not in the amounts to be of any large functional importance, but periferal nerve fibers are able to regenerate in perceptible amounts (that’s why doctors, if a nerve is severed, try to sew it up). So, in fact, not all damage is irretrievable to the nervous system.
+    </div>
+    <br />
+    <div class="articleheader">
+        Sources and literature
+    </div>
+    <br />
+    <div class="articletext">
+        S.L.Kuznetsov, N.N.Mushkambarov, "Histology, Cytology and Embryology". MOSCOW: "MIA",
+        2016, 640p.
+        <br />
+        Uyeda A, Muramatsu R.
+        Molecular Mechanisms of Central Nervous System Axonal Regeneration and Remyelination: A Review. Int J Mol Sci.
+        2020 Oct 30;21(21):8116.
+        (https://doi.org/10.3390/ijms21218116)
+    </div>
+</body>

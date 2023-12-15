@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>We use only 10 percent of our brains</title>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+</head>
+<body class="textfield">
+    <a href="https://sladegj.github.io/librarymain.html" target="_blank">back</a>
+    <br />
+    <br />
+    <div class="articleheader">
+        We use only 10 percent of our brains
+    </div>
+    <div class="articletext">
+        The human brain has long been a source of fascination and mystery. 
+        An old myth which emerged often repeatedly claims that average humans 
+        use only 10% of their brains. In fact, brain imaging research techniques 
+        such as PET scans (positron emission tomography) and fMRI (functional magnetic resonance imaging) 
+        clearly show that the vast majority of the brain does not lie fallow. Indeed, although certain minor 
+        functions may use only a small part of the brain at one time, any sufficiently complex set of activities 
+        or thought patterns will indeed use many parts of the brain. Over the course of 
+        a whole day, however, just about all of the brain is used at one time or another.
+    </div>
+    <br />
+    <div class="articleheader">
+        Sources and literature
+    </div>
+    <br />
+    <div class="articletext">
+        Arora M. The" Ten-Percent Brain Myth" guided with the Fundamentals of Jaina's Theory of Knowledge  // International Journal of Psychosocial Rehabilitation, Vol. 24, Issue 08, 2020 
+    </div>
+</body>

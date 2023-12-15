@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Cholesterol is bad for you</title>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+</head>
+<body class="textfield">
+    <a href="https://sladegj.github.io/librarymain.html" target="_blank">back</a>
+    <br />
+    <br />
+    <div class="articleheader">
+        Cholesterol is bad for you
+    </div>
+    <div class="articletext">
+        For years, cholesterol has been falsely linked to heart disease and other health issues. The idea is that too much dietary cholesterol could potentially lead to a heightened danger of cardiovascular issues is based on the presumption that it can raise blood cholesterol levels. 
+        <br />
+        Research has indicated that dietary cholesterol intake does not significantly influence blood cholesterol levels. Cholesterol can be divided into two categories: dietary cholesterol and blood cholesterol. Cholesterol in the diet is found solely in animal-sourced items such as meat, eggs, dairy products, and shellfish. Blood cholesterol is produced by the liver from fats ingested or manufactured internally. Dietary cholesterol does not significantly affect blood cholesterol levels. Blood cholesterol is impacted mostly by genetics and lifestyle factors like smoking or lack of exercise. 
+        <br />
+        Therefore, understanding how to manage your overall health through natural methods such as diet and exercise are key in maintaining healthy levels of cholesterol without fear or misconception about its effects on the body.
+    </div>
+    <br />
+    <div class="articleheader">
+        Sources and literature
+    </div>
+    <br />
+    <div class="articletext">
+        Victor A. Cortes, Dolores Busso, Alberto Maiz, Antonio Arteaga, Flavio Nervi, Attilio Rigotti. Physiological and pathological implications of cholesterol. Front. Biosci. (Landmark Ed) 2014, 19(3), 416–428. 
+        <br />
+        Fernandez ML, Murillo AG. Is There a Correlation between Dietary and Blood Cholesterol? Evidence from Epidemiological Data and Clinical Interventions. Nutrients. 2022 May 23;14(10):2168. doi: 10.3390/nu14102168. PMID: 35631308; PMCID: PMC9143438. 
+
+    </div>
+</body>

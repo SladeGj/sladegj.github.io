@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Candy and other sugary foods cause bad acne</title>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+</head>
+<body class="textfield">
+    <a href="https://sladegj.github.io/librarymain.html" target="_blank">back</a>
+    <br />
+    <br />
+    <div class="articleheader">
+        Candy and other sugary foods cause bad acne
+    </div>
+    <div class="articletext">
+        Sugar definitely doesn’t help your acne, but it also won’t cause it. As long as you’re not consuming sweet snacks by the pound, sugar and candy will likely have little effect on your skin. The amount of acne you have is mainly based on your genetics and hormones.
+    </div>
+    <br />
+    <div class="articleheader">
+        Sources and literature
+    </div>
+    <br />
+    <div class="articletext">
+        Claudel J. P. et al. Acne and nutrition: hypotheses, myths and facts //Journal of the European Academy of Dermatology and Venereology. – 2018. – Т. 32. – №. 10. – С. 1631-1637.
+    </div>
+</body>
